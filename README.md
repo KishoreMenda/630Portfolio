@@ -32,7 +32,7 @@ There are 2 separate event handlers for each field but the same is being used. U
 
 [Styling](https://github.com/ChicoState/PantryNode/pull/190)
 
- # Sprint 5 - Weeks 14-15 (May 2 - 15)
+# Sprint 5 - Weeks 14-15 (May 2 - 15)
 
  1. [Added test cases in for the Expiry page's table](https://github.com/ChicoState/PantryNode/pull/248) <br>
  This test checks if the component renders the expected table with the provided mock data and rendering a message when no items are present in the expiry page.
@@ -41,7 +41,7 @@ There are 2 separate event handlers for each field but the same is being used. U
  Renders total quantity of expired items and nearly expired items from the feedList.
  4. [File changes](https://github.com/ChicoState/PantryNode/pull/252/commits) <br>
 
- ## Issue
+## Issue
 
  [Test case - expiry page](https://github.com/ChicoState/PantryNode/issues/238)
 
@@ -53,7 +53,7 @@ There are 2 separate event handlers for each field but the same is being used. U
  [Reviewed couting stock feature in expiry page](https://github.com/ChicoState/PantryNode/pull/252)
 
 
- # Highlights
+# Highlights
 
 Introduced sorting filter dropdowns on the Expiry Page, facilitating easy sorting of data based on the selected field in the grid header. Users now have the flexibility to sort by Item name or Expiry Date. 
 
