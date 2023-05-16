@@ -58,5 +58,3 @@ There are 2 separate event handlers for each field but the same is being used. U
 Introduced sorting filter dropdowns on the Expiry Page, facilitating easy sorting of data based on the selected field in the grid header. Users now have the flexibility to sort by Item name or Expiry Date. 
 
 [Reference](https://github.com/ChicoState/PantryNode/pull/212)
-
-# 630Portfolio
